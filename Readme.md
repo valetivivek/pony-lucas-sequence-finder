@@ -1,8 +1,8 @@
 # DOSP Project-1 (COP5615) - Lukas Problem Solver
 
 ## Group 054 Team Members:
-- Kommineni Srinivas  - UFID: 27467990
-- Valeti Vishnu Vivek - UFID: 44729768
+- Kommineni Srinivas  
+- Valeti Vishnu Vivek 
 
 ## Problem Statement
 
